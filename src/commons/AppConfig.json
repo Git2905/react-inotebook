@@ -1,0 +1,9 @@
+{
+    "appTitle": "iNotebook",
+    "homeRoute": "/",
+    "updateNoteRoute": "/updatenote/:noteID",
+    "login": "/login",
+    "signUp": "/signup",
+    "successMessage": "Your request was successfully processed.",
+    "errorMessage": "While processing your request, a problem occurred. For a more thorough message, please check the console."
+}
